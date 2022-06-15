@@ -9,4 +9,4 @@ Interaction-Design
 * [ ] Visueel ontwerp (XD)
 * [ ] Onderzoek testen met de doelgroep
 * [ ] Vertaling van visueel ontwerp naar prototype d.m.v. realisatie in HTML/CSS/JS
-* [ ] Presentatie gerealiseerd prototype
+ [ ] Presentatie gerealiseerd prototype
